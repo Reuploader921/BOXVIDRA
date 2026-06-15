@@ -17,7 +17,7 @@ This emulator works with xfce4, box64, and box86, and contains many features tha
 
 ```bash
 
-curl -s -o ~/x https://raw.githubusercontent.com/Chrisklucik0/BOXVIDRA/main/install && . ~/x
+curl -s -o ~/x https://raw.githubusercontent.com/Reuploader921/BOXVIDRA/main/install && . ~/x
 
 ```
 
